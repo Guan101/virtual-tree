@@ -16,7 +16,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wchbrad/vue-easy-tree.git"
+        "url": "git+https://github.com/Guan101/virtual-tree.git"
     },
     "publishConfig": {
         "registry": "https://registry.npmjs.org/"
